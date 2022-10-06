@@ -1,3 +1,3 @@
 # iBaren
 
-Basic script for veryfing legal age. In a bar context.
+Basic script for veryfing your legal age. 
